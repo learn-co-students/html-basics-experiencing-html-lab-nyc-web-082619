@@ -1,0 +1,6 @@
+"paddles"
+"fins"
+"pull-buoy"
+"cap"
+"googles"
+"speedo"
